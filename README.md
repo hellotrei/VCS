@@ -25,7 +25,7 @@
 ## Table Of Contents
 
 - [Intro](#Intro)
-- [Requirments](#Requirments)
+- [Download APK](#Download)
 - [Dependencies](#Dependencies)
   - [Clone Repo](#Clone-Repo)
   - [Install Depedencies](#Install-Depedencies)
@@ -51,9 +51,9 @@
 
 ---
 
-### Requirments
+### Download
 
-- [Android SDK](https://developer.android.com/studio#downloads)
+- [Android APK](https://drive.google.com/file/d/10dXgq_MQTzoThb_alJD32WHXjvQahguB/view?usp=sharing)
 
 ### Installation
 
