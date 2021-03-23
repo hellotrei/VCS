@@ -12,15 +12,15 @@
 ## ScreenShots for iOS
 
 <div align="center">
-    <img width="300" margin="10px" src="https://postimg.cc/06Dm4ZYF">
-    <img width="300" margin="10px" src="https://postimg.cc/PpMDXxFM">
+    <img width="300" margin="10px" src="https://i.postimg.cc/g0BDnTnz/Screen-Shot-2021-03-23-at-17-20-31.png">
+    <img width="300" margin="10px" src="https://i.postimg.cc/63kfh4rF/Screen-Shot-2021-03-23-at-17-20-59.png">
 </div>
 
 ## ScreenShots for Android
 
 <div align="center">
-    <img width="300" margin="10px" src="https://postimg.cc/T5YDp6zv">
-    <img width="300" margin="10px" src="https://postimg.cc/njx7f7Tz">
+    <img width="300" margin="10px" src="https://i.postimg.cc/Wz06YpSz/Screen-Shot-2021-03-23-at-17-22-29.png">
+    <img width="300" margin="10px" src="https://i.postimg.cc/nzj17GDv/Screen-Shot-2021-03-23-at-17-22-51.png">
 </div>
 
 ## Table Of Contents
