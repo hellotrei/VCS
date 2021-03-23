@@ -1,4 +1,4 @@
-package com.onlinevidcall;
+package com.exemple;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "onlineVidcall";
+    return "Exemple";
   }
 }
