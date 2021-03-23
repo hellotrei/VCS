@@ -1,9 +1,8 @@
 # Readme : Video Call Super App
 
 ![](https://img.shields.io/badge/Dependencies-React--Native-green.svg)
-![](https://img.shields.io/badge/Real--Time%20Database-Firebase-blue.svg)
-![](https://img.shields.io/badge/Maps-React--Native--Maps-red.svg)
-![](https://img.shields.io/badge/Chat-React--Native--Gifted--Chatt-red.svg)
+![](https://img.shields.io/badge/Jitsi%20Meet-react--native--jitsi--meet-blue.svg)
+![](https://img.shields.io/badge/Lottie-React--Native--lottie-red.svg)
 
 
 <!-- [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
