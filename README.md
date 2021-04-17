@@ -102,9 +102,11 @@ List of depedencies using in this project
 
 | Plugin                                                                                              | Description                                                                                                     |
 | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| [React Native](https://facebook.github.io/react-native/)                                            | Mobile Apps Framework                                                                                           |
+| [React Native 0.62.2](https://facebook.github.io/react-native/)                                            | Mobile Apps Framework                                                                                           |
 | [Jitsi](https://github.com/skrafft/react-native-jitsi-meet)                                | A package for creating Video                                                                                |
-                |
+| Hardware                                                                                              | Description                                                                                                     |
+| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| [Mac OS](https://www.apple.com/au/mac/compare/?modelList=MacBookPro-13-M1,MacBookPro-13_2,Macbook-Air-2017)                                            | MacBook Pro M1                                                                                           |
 
 
 ## License and Support
