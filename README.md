@@ -53,7 +53,7 @@
 
 ### Download
 
-- [Android APK](https://drive.google.com/file/d/10dXgq_MQTzoThb_alJD32WHXjvQahguB/view?usp=sharing)
+- [Android APK](https://drive.google.com/file/d/1q4zmqwy2sktwjGKeNKhb6Hur9S3tfgW4/view?usp=sharing)
 
 ### Installation
 
@@ -110,10 +110,12 @@ List of depedencies using in this project
 | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | [React Native 0.62.2](https://facebook.github.io/react-native/)                                            | Mobile Apps Framework                                                                                           |
 | [Jitsi](https://github.com/skrafft/react-native-jitsi-meet)                                | A package for creating Video                                                                                |
+
+
+
 | Hardware                                                                                              | Description                                                                                                     |
 | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| [Mac OS](https://www.apple.com/au/mac/compare/?modelList=MacBookPro-13-M1,MacBookPro-13_2,Macbook-Air-2017)                                            | MacBook Pro M1                                                                                           |
-
+| [MacOS](https://www.apple.com/au/mac/compare/?modelList=MacBookPro-13-M1,MacBookPro-13_2,Macbook-Air-2017)                                            | MacBook Pro M1                                                                                           |
 
 ## License and Support
 
