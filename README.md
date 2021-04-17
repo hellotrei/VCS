@@ -86,12 +86,18 @@ $ npx react-native run android
 $ react-native run ios
 ``` -->
 
-##### Build For Production
+##### Build For Release
 
-build for production ready, and host ready
+build for Android production ready, and host ready
 
 ```sh
 $ cd android && ./gradlew --assembleRelease
+```
+
+build for iOS production [XCode](https://stackoverflow.com/questions/5706548/how-do-i-create-a-release-build-in-xcode 'XCode') ready, and account Apple Dev needed
+
+```sh
+$ Product / Scheme / Edit Scheme.. Build Configuration > Release
 ```
 
 ---
