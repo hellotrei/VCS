@@ -62,7 +62,7 @@
 clone the repository
 
 ```sh
-$ git clone https://github.com/asktrei/VCS.git
+$ git clone https://github.com/hellotrei/VCS.git
 $ cd VCS
 ```
 
@@ -120,8 +120,8 @@ List of depedencies using in this project
 ## License and Support
 
 For Bug report, please contact me
-[Treido Ristivan](https://github.com/asktrei 'Treido Ristivan')
+[Treido Ristivan](https://github.com/hellotrei 'hellotrei')
 
 MIT
 
-Copyright © 2021 by Treido Ristivan
+Copyright © 2021 by Trei
