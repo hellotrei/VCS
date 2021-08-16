@@ -120,7 +120,7 @@ List of depedencies using in this project
 ## License and Support
 
 For Bug report, please contact me
-[Treido Ristivan](https://github.com/hellotrei 'hellotrei')
+[Trei R](https://github.com/hellotrei 'hellotrei')
 
 MIT
 
